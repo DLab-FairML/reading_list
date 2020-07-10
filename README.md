@@ -1,11 +1,5 @@
 # reading_list
 
-# Renata 
-- [ ] Add your recommended articles below
-
-# Avery 
-- [ ] Add your recommended articles below
-
 ## FairML in general 
 
 - Matt J. Kusner, Joshua R. Loftus, Chris Russell, Ricardo Silva, [Counterfactual Fairness](https://arxiv.org/abs/1703.06856)
@@ -24,7 +18,6 @@
 
   - [Python package](https://github.com/interpretml/DiCE)
 
-
 ## Bias and NLP
 
 - Dirk Hovy & Shannon L. Spruit. [The Social Impact of Natural Language Processing](https://www.aclweb.org/anthology/P16-2096.pdf)
@@ -35,3 +28,7 @@
     - Topic underexposure -> availability heuristics -> discrimination
     - Topic overexposure -> Negative impact evaluation 
     - Dual use (unintended consequences)
+
+## Public Opinion and AI System 
+
+- Min Kyung Lee. [Understanding perception of algorithmic decisions: Fairness, trust, and emotion in response to algorithmic management](https://journals.sagepub.com/action/doSearch?target=default&ContribAuthorStored=Lee%2C+Min+Kyung)
