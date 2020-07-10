@@ -1,7 +1,7 @@
 # reading_list
 
 # Aniket 
-- [ ] Add your recommended articles below
+- Pedro Saleiro, Rayid Ghani et. al. [Aequitas: A Bias and Fairness Audit Toolkit](https://arxiv.org/pdf/1811.05577.pdf)
 
 # Renata 
 - [ ] Add your recommended articles below
