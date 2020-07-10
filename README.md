@@ -1,8 +1,5 @@
 # reading_list
 
-# Aniket 
-- Pedro Saleiro, Rayid Ghani et. al. [Aequitas: A Bias and Fairness Audit Toolkit](https://arxiv.org/pdf/1811.05577.pdf)
-
 # Renata 
 - [ ] Add your recommended articles below
 
@@ -20,6 +17,8 @@
       - Alternatives: (1) What is the causal impact of the introduction of an algorithm on inequality? (2) Who has the power to pick the objective function of an algorithm?
     - Fairness definitions depend on (1) Treatment (job, credit, incarceration, school admission), (2) A note of merit M (marginal product, credit default, recidivism, test performance), (3) Protected categories A (race, ethnicity, gender) -> become a constrained optimization problem 
     - Reasons for bias: (1) preference-based discrimination, (2) mis-measurement, (3) statistical discrimination 
+
+- Pedro Saleiro, Rayid Ghani et. al. [Aequitas: A Bias and Fairness Audit Toolkit](https://arxiv.org/pdf/1811.05577.pdf)
 
 - Ramaravind Kommiya Mothilal, Amit Sharma, Chenhao Tan. [Explaining Machine Learning Classifiers through Diverse Counterfactual Explanations](https://arxiv.org/abs/1905.07697)
 
