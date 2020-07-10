@@ -1,18 +1,23 @@
 # reading_list
 
 # Aniket 
-- [ ] Add your recommmended articles below
+- [ ] Add your recommended articles below
 
 # Renata 
-- [ ] Add your recommmended articles below
+- [ ] Add your recommended articles below
 
 # Avery 
-- [ ] Add your recommmended articles below
+- [ ] Add your recommended articles below
 
 ## FairML in general 
 
 - Maximilian Kasy & Rediet Abebe. [Fairness, Equality, and Power in Algorithmic Decision-Making](https://www.cs.cornell.edu/~red/fairness_equality_power.pdf)
   - [Slides](https://maxkasy.github.io/home/files/slides/fairness_equality_power_slides_kasy.pdf)
+    - Fairness = !discrimination?
+      - Problems: (1) legitimize inequalities justified by "merit", (2) narrowly blacketed; only consider differences, (3) only consider between-group differences 
+      - Alternatives: (1) What is the causal impact of the introduction of an algorithm on inequality? (2) Who has the power to pick the objective function of an algorithm?
+    - Fairness definitions depend on (1) Treatment (job, credit, incarceration, school admission), (2) A note of merit M (marginal product, credit default, recidivism, test performance), (3) Protected categories A (race, ethnicity, gender) -> become a constrained optimization problem 
+    - Reasons for bias: (1) preference-based discrimination, (2) mis-measurement, (3) statistical discrimination 
 
 ## Bias and NLP
 
@@ -20,7 +25,7 @@
   - Motivation: "Instead, we want to move beyond privacy in our ethical analysis and look at the wider social impact NLP may have. In particular, we want to explore the impact of NLP on social justice, i.e., equal opportunities for individuals and groups (such as minorities) within society to access resources, get their voice heard, and be represented in society." (p.591)
   - New terms: "exclusion, overgeneralization, bias confirmation, topic under- and overexposure, and dual use." (p.592)
     - Exclusion: demographic bias (data side-effect) 
-    - Overgeneralization & Bias confirmation: false positives -> overgeneralization & bias confirmation (modeling side-effect) "Would a false answer would be worsed than no answer?"
+    - Overgeneralization & Bias confirmation: false positives -> overgeneralization & bias confirmation (modeling side-effect) "Would a false answer would be worse than no answer?"
     - Topic underexposure -> availability heuristics -> discrimination
     - Topic overexposure -> Negative impact evaluation 
     - Dual use (unintended consequences)
