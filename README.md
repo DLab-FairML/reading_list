@@ -1,4 +1,8 @@
-# reading_list
+
+- If you want to hyperlink a paper or book, do [book] (hrf) or [paper] (hrf) and remove the space between [ ] ( ).
+- Hyperlink only legally accessible papers and books. 
+
+# Reading list for the bias and fiarness in ML
 
 ## FairML in general 
 
