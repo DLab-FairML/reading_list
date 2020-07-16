@@ -36,5 +36,4 @@
 
 ## Popular Literature (Books)
 
-- Cathy O'Neil. [Weapons of Math Destruction], Sept. 2016
-(http://ijr1cmr6p8.pdfcloud.org/dl2.php?id=194600232&h=d9cd92f2a8481ee7184cd74e003726c3&u=cache&ext=pdf&n=Weapons%20of%20math%20destruction%20how%20big%20data%20increases%20inequality%20and%20threatens%20democracy) [full text]
+- Cathy O'Neil. [Weapons of Math Destruction](http://ijr1cmr6p8.pdfcloud.org/dl2.php?id=194600232&h=d9cd92f2a8481ee7184cd74e003726c3&u=cache&ext=pdf&n=Weapons%20of%20math%20destruction%20how%20big%20data%20increases%20inequality%20and%20threatens%20democracy), Sept. 2016
