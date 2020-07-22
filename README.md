@@ -40,4 +40,4 @@
 
 ## Popular Literature (Books)
 
-- Cathy O'Neil. [Weapons of Math Destruction](https://www.amazon.com/dp/B01LDFCP0S/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1), Sept. 2016
+- Cathy O'Neil. [Weapons of Math Destruction](https://www.amazon.com/dp/B01LDFCP0S/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1). 
