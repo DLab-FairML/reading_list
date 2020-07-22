@@ -37,7 +37,14 @@
 
 - Min Kyung Lee. [Understanding perception of algorithmic decisions: Fairness, trust, and emotion in response to algorithmic management](https://journals.sagepub.com/action/doSearch?target=default&ContribAuthorStored=Lee%2C+Min+Kyung)
 
+## Participatory Approaches to Machine Learning
 
-## Popular Literature (Books)
+- [Participatory Approaches to Machine Learning ICML2020 Workshop](https://participatoryml.github.io/) (July 17)
+
+## Popular Literature
+
+### Books 
 
 - Cathy O'Neil. [Weapons of Math Destruction](https://www.amazon.com/dp/B01LDFCP0S/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1). 
+
+### Articles 
