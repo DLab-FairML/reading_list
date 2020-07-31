@@ -49,7 +49,7 @@
           - Step4: Labeling
           - Step5: Community validationg and reconciliation
           
--[Sloane, Mona. Moss, Emanuel. Awomolo, Olaitan. Forlano, Laura. "Participation is not a Design Fix for Machine Learning."] 
+- [Sloane, Mona. Moss, Emanuel. Awomolo, Olaitan. Forlano, Laura. "Participation is not a Design Fix for Machine Learning."] 
 (https://arxiv.org/pdf/2007.02423.pdf)
 
 ## Popular Literature
