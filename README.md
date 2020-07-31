@@ -1,5 +1,5 @@
 
-- If you want to hyperlink a paper or book, do [book] (hrf) or [paper] (hrf) and remove the space between [ ] ( ).
+- If you want to hyperlink a paper or book, do [book](hrf) or [paper](hrf) and remove the space between [ ]( ).
 - Hyperlink only legally accessible papers and books.
 
 # Reading list for the bias and fiarness in ML
@@ -49,8 +49,7 @@
           - Step4: Labeling
           - Step5: Community validationg and reconciliation
           
-- [Sloane, Mona. Moss, Emanuel. Awomolo, Olaitan. Forlano, Laura. "Participation is not a Design Fix for Machine Learning."] 
-(https://arxiv.org/pdf/2007.02423.pdf)
+- [Sloane, Mona. Moss, Emanuel. Awomolo, Olaitan. Forlano, Laura. "Participation is not a Design Fix for Machine Learning."](https://arxiv.org/pdf/2007.02423.pdf)
 
 ## Popular Literature
 
