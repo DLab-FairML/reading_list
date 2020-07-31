@@ -37,7 +37,16 @@
 
 - Min Kyung Lee. [Understanding perception of algorithmic decisions: Fairness, trust, and emotion in response to algorithmic management](https://journals.sagepub.com/action/doSearch?target=default&ContribAuthorStored=Lee%2C+Min+Kyung)
 
+## Participatory Approaches to Machine Learning
 
-## Popular Literature (Books)
+- [Participatory Approaches to Machine Learning ICML2020 Workshop](https://participatoryml.github.io/) (July 17)
 
-- Cathy O'Neil. [Weapons of Math Destruction](https://www.amazon.com/dp/B01LDFCP0S/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1).
+  - [Patton, Desmond U., William R. Frey, Kyle A. McGregor, Fei-Tzin Lee, Kathleen McKeown, and Emanuel Moss. "Contextual Analysis of Social Media: The Promise and Challenge of Eliciting Context in Social Media Posts with Natural Language Processing." In Proceedings of the AAAI/ACM Conference on AI, Ethics, and Society, pp. 337-342. 2020.](https://dl.acm.org/doi/pdf/10.1145/3375627.3375841?casa_token=yZOdrz73Lu4AAAAA:NXBAFttihwjDfo2WRF78Q8F8jZb182VMm_4gVZneDEtbuHN0QkwsAJpFIwJ4GofpH-lnmQd6tD4)
+  
+## Popular Literature
+
+### Books 
+
+- Cathy O'Neil. [Weapons of Math Destruction](https://www.amazon.com/dp/B01LDFCP0S/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1). 
+
+### Articles 
