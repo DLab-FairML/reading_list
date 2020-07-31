@@ -22,6 +22,10 @@
 
   - [Python package](https://github.com/interpretml/DiCE)
 
+- Kei-Wei Chang, [What It Takes to Control Societal Bias in Natural Language Processing](https://simons.berkeley.edu/talks/what-it-takes-control-societal-bias-natural-language-processing)
+
+  - Natural language processing techniques play important roles in our daily life. Despite these methods being successful in various applications, they run the risk of exploiting and reinforcing the societal biases (e.g. gender bias) that are present in the underlying data. In this talk, I will describe a collection of results that quantify and control implicit societal biases in a wide spectrum of language processing tasks, including word embeddings, coreference resolution, and visual semantic role labeling. These results lead to greater control of NLP systems to be socially responsible and accountable.
+
 ## Bias and NLP
 
 - Dirk Hovy & Shannon L. Spruit. [The Social Impact of Natural Language Processing](https://www.aclweb.org/anthology/P16-2096.pdf)
